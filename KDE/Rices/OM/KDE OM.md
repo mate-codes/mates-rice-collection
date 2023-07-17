@@ -15,6 +15,15 @@
 ### Configs
 - [Latte Dock](https://github.com/mate-codes/mates-rice-collection/blob/main/KDE/Rices/OM/OM.layout.latte)
 - [Neofetch](https://github.com/mate-codes/mates-rice-collection/blob/main/KDE/Rices/OM/config.conf)  `color (1 3 4)`
+- Bismuth
+  - Outer Gaps
+      - Left 11
+      - Top 13
+      - Right 11
+      - Bottom 12
+   
+  - Inner Gaps
+      - All 13
 
 ### Icons
 - [Nordzy Orange Dark](https://store.kde.org/p/1686927)
@@ -37,3 +46,6 @@
 - Fish (shell)
 - Breeze (Transparent 57%)
 - No toolbars
+
+### SDDM
+- [Kawaiki](https://www.pling.com/p/1602837)

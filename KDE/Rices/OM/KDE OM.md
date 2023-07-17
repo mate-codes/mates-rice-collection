@@ -14,7 +14,7 @@
 
 ### Configs
 - [Latte Dock](https://github.com/mate-codes/mates-rice-collection/blob/main/KDE/Rices/OM/OM.layout.latte)
-- [Neofetch](https://github.com/mate-codes/mates-rice-collection/blob/main/KDE/Rices/OM/config.conf)
+- [Neofetch](https://github.com/mate-codes/mates-rice-collection/blob/main/KDE/Rices/OM/config.conf)  `color (1 3 4)`
 
 ### Icons
 - [Nordzy Orange Dark](https://store.kde.org/p/1686927)
@@ -22,7 +22,18 @@
 ### Plasma Style
 - [Blurred Plasma](https://store.kde.org/p/1646173)
 
-### Color Accent
-`#9A4042`
+### Colors
+[`#9A4042`](https://www.color-hex.com/color/9a4042)
 
-`rgb(154,64,66)`
+[`rgb(154,64,66)`](https://www.color-hex.com/color/9a4042)
+
+### Window Decoration
+- Bismuth (Installed with the package)
+
+### Color Scheme
+- [Tokyo Night](https://store.kde.org/p/2053460)
+
+### Konsole
+- Fish (shell)
+- Breeze (Transparent 57%)
+- No toolbars
